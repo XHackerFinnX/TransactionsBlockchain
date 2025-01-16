@@ -1,8 +1,8 @@
 # Задание 1
 ## Источники
-Нашел информацию из ![Ссылка на источник](https://bitcoin.stackexchange.com/questions/40893/how-to-access-latest-transactions-using-the-blockchain-info-api)
+Нашел информацию из [Ссылка на источник](https://bitcoin.stackexchange.com/questions/40893/how-to-access-latest-transactions-using-the-blockchain-info-api)
 
-Использовал этот **сайт для API** ![Ссылка на api](https://www.blockchain.com/ru/explorer/api/blockchain_api). От туда взял Unconfirmed Transactions: https://blockchain.info/unconfirmed-transactions?format=json с лимитом 100
+Использовал этот **сайт для API** [Ссылка на api](https://www.blockchain.com/ru/explorer/api/blockchain_api). От туда взял Unconfirmed Transactions: https://blockchain.info/unconfirmed-transactions?format=json с лимитом 100
 
 ## Структура проекта
 **main.py**: Основной скрипт, который запускает процесс сбора транзакций и записи в базу данных.
