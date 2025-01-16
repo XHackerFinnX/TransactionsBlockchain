@@ -52,6 +52,7 @@
 
 4. **Запустите файл:**
    ```bash
+   cd src
    python main.py
    ```
 
