@@ -8,3 +8,7 @@ class Transaction:
             VALUES (?, ?, ?, ?, ?)
         """
         self.db.execute_query(query, (hash_txs, type_wallet, wallet, volume, datetime))
+        
+    def get_all_transactions(self):
+        query = "SELECT * FROM transactions"
+        return self.db.fetchall_query(query)
