@@ -24,9 +24,9 @@
    git clone https://github.com/XHackerFinnX/.git
    cd 
    ```
-  1.1 **Просмотр базы данной**
-    Данные о транзакциях в базе данной SQLite по пути `base/bitcoin_transaction.db`.
-    В таблице `transactions` хранятся следующие данные:
+      1.1 **Просмотр базы данной**
+        Данные о транзакциях в базе данной SQLite по пути `base/bitcoin_transaction.db`.
+        В таблице `transactions` хранятся следующие данные:
 
     hash: Хэш транзакции.
 
