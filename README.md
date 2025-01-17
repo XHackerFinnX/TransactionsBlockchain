@@ -23,8 +23,8 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/XHackerFinnX/.git
-   cd 
+   git clone https://github.com/XHackerFinnX/TransactionsBlockchain.git
+   cd TransactionsBlockchain
    ```
       1.1 **Просмотр базы данной**
         Данные о транзакциях в базе данной SQLite по пути `base/bitcoin_transaction.db`.
