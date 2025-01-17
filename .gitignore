@@ -1,4 +1,2 @@
 venv
 __pycache__
-bitcoin_transaction.db
-btc_transactions.csv
