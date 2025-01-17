@@ -1,0 +1,3 @@
+bitcoin_transaction.db и btc_transactions.csv отправил в телеграм
+bitcoin_transaction.db - загрузка данных в БД
+btc_transactions.csv - выгрузка данных из БД в CSV
