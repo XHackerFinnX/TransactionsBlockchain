@@ -61,6 +61,7 @@
 ## Фотографии работы проекта
 Логи проекта
 ![Логи проекта](https://github.com/XHackerFinnX/TransactionsBlockchain/blob/main/photo_readme/log.png)
+![Логи проекта конец](https://github.com/XHackerFinnX/TransactionsBlockchain/blob/main/photo_readme/log_end.png)
 
 Данные в БД
 ![Данные](https://github.com/XHackerFinnX/TransactionsBlockchain/blob/main/photo_readme/data.png)
